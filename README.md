@@ -1,5 +1,7 @@
 # Ex.06 Book Front Cover Page Design
-## Date:
+## NAME: INDRAJA S
+## REG NO: 212222043003
+## Date: 7.5.24
 
 ## AIM:
 To design a book front cover page using HTML and CSS.
